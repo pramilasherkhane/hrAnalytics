@@ -20,3 +20,4 @@ This project analyzes employee data to identify patterns and factors contributin
 
 ## Dashboard
 This dashboard helps visualize workforce trends and provides insights into employee attrition across different departments, age groups, and salary levels.
+![HR Analytics Dashboard](HR.png)
